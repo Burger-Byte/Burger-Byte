@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jaques Burger</h1>
-<h3 align="center">I am a passionate Devops Engineer</h3>
+<h3 align="center">I am a passionate geek currently aiming to be the best Engineer I can be.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burger-byte&label=Profile%20views&color=0e75b6&style=flat" alt="burger-byte" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burger-byte" alt="burger-byte" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burger-byte&theme=darkhub" alt="burger-byte" /></a> </p>
 
-- 🔭 I’m currently working on **Creating my first mobile app**
+- I’m currently working on **Creating my first mobile app**
 
-- 🌱 I’m currently learning **C#, Python**
+- I’m currently learning **C#, Python**
 
-- 👯 I’m looking to collaborate on **Small C# projects**
+- I’m looking to collaborate on **Small C# projects**
 
-- ⚡ Fun fact **Hippos have webbed feet.**
+- Fun fact **Hippos have webbed feet.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
